@@ -1,4 +1,4 @@
-Sand & Stone
+The Meadow
 
 Where is the light,
 and where is the shadow,
@@ -14,5 +14,3 @@ The rooster cries,
 the wolf moans,
 I am lost in the meadow,
 and all I feel is sand and stone.
-
-This line will drown in the sands of GitHub time.
